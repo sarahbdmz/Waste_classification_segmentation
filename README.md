@@ -24,12 +24,12 @@ pip install streamlit tensorflow opencv-python Pillow numpy matplotlib
 ```
 
 
-#Dataset
+## Dataset
 
-Classification : nous avons utilisé le dataset standard de Kaggle Waste Classification
+# Classification : nous avons utilisé le dataset standard de Kaggle Waste Classification
 .
 
-Segmentation : nous avons travaillé avec le dataset ZeroWaste Segmentation
+# Segmentation : nous avons travaillé avec le dataset ZeroWaste Segmentation
  pour entraîner le modèle de segmentation.
 
 Pour des raisons de taille, les datasets ne sont pas inclus dans le repo GitHub.
